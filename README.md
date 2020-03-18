@@ -20,9 +20,9 @@ To predict churn from user data is a very common topic for many different compan
 
 ### Files Description <a name = "description"></a>
 
-*Sparkify.ipynb* is the jupyter notebook the preprocessing, feature engineering, modelling and evaluation is preformed.
-*Sparkify_AWS.ipynb* is the jupyter notebook the preprocessing, feature engineering, modelling and evaluation is preformed on the AWS Cluster.
-*Sparkify_IBM_Waton.ipynb* is the jupyter notebook the preprocessing, feature engineering, modelling and evaluation is preformed on the IBM Watson Cluster.
+* Sparkify.ipynb - is the jupyter notebook the preprocessing, feature engineering, modelling and evaluation is preformed.
+* Sparkify_AWS.ipynb - is the jupyter notebook the preprocessing, feature engineering, modelling and evaluation is preformed on the AWS Cluster.
+* Sparkify_IBM_Waton.ipynb - is the jupyter notebook the preprocessing, feature engineering, modelling and evaluation is preformed on the IBM Watson Cluster.
 
 
 ### Software and Dependencies <a name = "dependencies"></a>
