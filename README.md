@@ -29,10 +29,10 @@ To predict churn from user data is a very common topic for many different compan
 
 The project is implemented using Anaconda with Python3 and following libraries are used in this project:
 
-*Pandas**<br>
-*Matplotlib**<br>
-*Seaborn**<br>
-*PySpark**<br>
+* Pandas
+* Matplotlib
+* Seaborn
+* PySpark
 
 ### Results <a name = "results"></a>
 
