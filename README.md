@@ -36,7 +36,7 @@ The project is implemented using Anaconda with Python3 and following libraries a
 
 ### Results <a name = "results"></a>
 
-Local machine (Mini dataset, 128 MB):
+```Local machine (Mini dataset, 128 MB):
 Gradient Boost Tree Classifier:
 f1 score: 0.9298245614035088
 accuracy: 0.9298245614035088
@@ -67,6 +67,7 @@ Random Forest Classifier:
 f1 score: 0.7853231106243155
 accuracy: 0.6962696408305166
 area under ROC: 0.5102765088380845
+```
 
 On the small data set these all get high evaluation metrics in terms of accuracy, f1 score and area und ROC. Gradient Boost Tree Classifier has slightly better results than Random Forest Classifier. Linear SVC has significantly lower f1 and accuracy. In general the size of the data set makes it difficult to evaluate the model which can be seen that all models have fairly high / good results.
 
